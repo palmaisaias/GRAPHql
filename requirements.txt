@@ -1,0 +1,7 @@
+Flask
+Flask-Script
+Flask-SQLAlchemy
+Flask-GraphQL
+graphene
+graphene-sqlalchemy
+PyMySQL
